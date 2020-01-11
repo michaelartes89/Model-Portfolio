@@ -1,9 +1,34 @@
 body {
     background: url("../images/sun-pattern.png");
 }
-.foot {
+#foot {
     width: 100%;
     max-width: 960px;
     margin: 0 auto;
     clear: both;
+    text-align: center;
   }
+
+  #proImage {
+      height: auto;
+
+  }
+  a {
+      color:royalblue;
+      text-decoration:underline;
+  }
+ 
+    a:visited {
+        color: green;
+    }
+    a:active {
+        color:purple;
+    }
+    a:hover {
+        color: rgb(0, 26, 255);
+      }
+    #navbar a {
+          text-decoration:none;
+      }
+
+  
