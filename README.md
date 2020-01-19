@@ -4,5 +4,5 @@ This is the latest incarnation of my personal portfolio page. This page is inten
 
 ## ENJOY! 
 
-<a href src="https://michaelartes89.github.io/Model-Portfolio/" target="_blank"> Click Here to View </a>
+<a href="https://michaelartes89.github.io/Model-Portfolio/" target="_blank"> Click Here to View </a>
 
