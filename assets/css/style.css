@@ -1,5 +1,24 @@
+
+ p {
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 20px;
+     text-align: justify;
+ }
+ .navbar {
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 18px;
+     /*background: url("../images/sun-pattern.png");*/
+ }
+
+ h1 {
+     font-family: 'Times New Roman', Times, serif;
+     font-weight:bold;
+    
+ }
 body {
-    background: url("../images/sun-pattern.png");
+   /* background: url("../images/sun-pattern.png");*/
+    background: linear-gradient(45deg, #FFCCCC, #CCFFFF);
+
 }
 #foot {
     width: 100%;
@@ -7,10 +26,11 @@ body {
     margin: 0 auto;
     clear: both;
     text-align: center;
+   
   }
 
   #proImage {
-      height: auto;
+      height: 60%;
 
   }
   a {
@@ -27,8 +47,10 @@ body {
     a:hover {
         color: rgb(0, 26, 255);
       }
-    #navbar a {
+    .navbar a {
           text-decoration:none;
       }
+
+  
 
   
