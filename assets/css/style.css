@@ -17,7 +17,9 @@
  }
 body {
    /* background: url("../images/sun-pattern.png");*/
-    background: linear-gradient(45deg, #FFCCCC, #CCFFFF);
+ /*  background:rgb(55,100,144);*/
+  background: linear-gradient(45deg, #FFCCCC, #CCFFFF);
+   
 
 }
 #foot {
